@@ -1,4 +1,4 @@
-package main
+package myStrings
 
 //All Go programs start with a package declaration.
 //The main package is a special package that tells the Go
