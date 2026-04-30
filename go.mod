@@ -1,4 +1,4 @@
-module github.com/eliseeyams/myStrings
+module github.com/eliseeyams/Go
 
 go 1.25.7
 
