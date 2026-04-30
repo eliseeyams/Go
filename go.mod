@@ -1,4 +1,4 @@
-module github.com/eliseeyams/Go
+module example.com/go-demo
 
 go 1.25.7
 

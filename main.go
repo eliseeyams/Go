@@ -1,4 +1,4 @@
-package Go
+package main
 
 //All Go programs start with a package declaration.
 //The main package is a special package that tells the Go
